@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1715201781 source:c:\users\ionut\desktop\proiect_poo\proiectpoo\main.cpp
+	<iostream>
+	"Produs.h"
+	"Subprodus.h"
+	"GestiuneAdministratori.h"
+
+1715191484 source:c:\users\ionut\desktop\proiect_poo\proiectpoo\src\produs.cpp
+	"Produs.h"
+
+1715191356 c:\users\ionut\desktop\proiect_poo\proiectpoo\include\produs.h
+	<cstring>
+	<iostream>
+
+1715199429 source:c:\users\ionut\desktop\proiect_poo\proiectpoo\src\subprodus.cpp
+	"Subprodus.h"
+
+1715195051 c:\users\ionut\desktop\proiect_poo\proiectpoo\include\subprodus.h
+	<Produs.h>
+	<iostream>
+
+1715201254 source:c:\users\ionut\desktop\proiect_poo\proiectpoo\src\administrator.cpp
+	"Administrator.h"
+
+1715201275 c:\users\ionut\desktop\proiect_poo\proiectpoo\include\administrator.h
+
+1715201874 source:c:\users\ionut\desktop\proiect_poo\proiectpoo\src\gestiuneadministratori.cpp
+	"GestiuneAdministratori.h"
+	<iostream>
+	<fstream>
+
+1715201520 c:\users\ionut\desktop\proiect_poo\proiectpoo\include\gestiuneadministratori.h
+	<string>
+	<vector>
+
